@@ -1,0 +1,4 @@
+result/*
+!result/.gitkeep
+node_modules
+.idea
